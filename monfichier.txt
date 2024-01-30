@@ -1,2 +1,6 @@
 Fichier txt créé avec succès
+<<<<<<< HEAD
 Modification dans le fichier
+=======
+Modification dans le fichier2
+>>>>>>> ma-nouvelle-branche
